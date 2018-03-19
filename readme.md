@@ -1,4 +1,4 @@
-# Kirby
+# Kirby Sisko 2018
 
 Kirby is a file-based CMS.
 Easy to setup. Easy to use. Flexible as hell.
